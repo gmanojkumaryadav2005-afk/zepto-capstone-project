@@ -81,3 +81,6 @@ where this is scored under the grading rubric).
 All code, analysis, and written interpretations in this repository are
 original work, produced with the aid of standard library/framework
 documentation only.
+
+## Project Status
+Capstone project implementation completed.
