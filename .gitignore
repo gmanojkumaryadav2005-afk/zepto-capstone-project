@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.egg-info/
+.ipynb_checkpoints/
+
+# generated data / artifacts (regenerable by running the scripts)
+data_pipeline/raw_books.csv
+data_pipeline/books.db
+data_pipeline/queries_output.txt
+
+analytics/titanic.csv
+analytics/titanic_clean.csv
+analytics/charts/
+analytics/*.joblib
+analytics/eda_report.txt
+analytics/modeling_report.txt
+
+support_assistant/chroma_store/
+support_assistant/.env
